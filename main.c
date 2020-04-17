@@ -42,7 +42,7 @@ int main(int argc, char *argv[])
     if (argc == 1)
     {
         printf("Usage: [-port (Port Number)] [-on (Channel)...] [-off (Channel)...]\n");
-        printf("ex: ./relay_control -port 0 -on 1 -on 3 -off 2\n");
+        printf("ex: ./ftd2_qy15_relay -port 0 -on 1 -on 3 -off 2\n");
     }
 
     for (i = 1; i < argc; i++)
