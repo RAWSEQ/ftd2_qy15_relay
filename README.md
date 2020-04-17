@@ -14,3 +14,5 @@ $ sudo ./ftd2_qy15_relay
 Usage: [-port (Port Number)] [-on (Channel)...] [-off (Channel)...]
 ex: ./ftd2_qy15_relay -port 0 -on 1 -on 3 -off 2
 ```
+
+License: MIT
